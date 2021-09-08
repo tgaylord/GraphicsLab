@@ -1,0 +1,11 @@
+size(100,100);
+triangle(width/2,width/2,width/2,3*width/4,width/4,3*width/4);
+triangle(width/4,3*width/4,width/4,90,width/16,90);
+rect(width/2,width/2, 3*width/8, width/4);
+//rect(3*width/4,width/4,width/8,width/2);
+//rect(5*width/8, width/8, 3*width/8, width/8);
+rect(width/4,3*width/4,5*width/8,width/8);
+circle(7*width/16, 90,15);
+circle(7*width/8, 90,15);
+circle(5*width/8, 90,15);
+circle(2*width/8, 90,15);
